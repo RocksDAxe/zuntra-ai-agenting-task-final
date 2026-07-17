@@ -1,0 +1,9 @@
+[
+  {"name": "NimbusAI", "sector": "Enterprise AI", "founded_year": 2024, "headquarters": "San Francisco, USA", "website": "https://nimbusai.example.com", "employee_estimate": 60},
+  {"name": "GreenGrid Energy", "sector": "Climate Tech / Energy", "founded_year": 2022, "headquarters": "Denver, USA", "website": "https://greengrid.example.com", "employee_estimate": 140},
+  {"name": "Solstice Health", "sector": "HealthTech", "founded_year": 2025, "headquarters": "Boston, USA", "website": "https://solstice.example.com", "employee_estimate": 35},
+  {"name": "PayFlux", "sector": "Fintech Infrastructure", "founded_year": 2021, "headquarters": "New York, USA", "website": "https://payflux.example.com", "employee_estimate": 310},
+  {"name": "Loomwork", "sector": "Future of Work / SaaS", "founded_year": 2026, "headquarters": "Remote", "website": "https://loomwork.example.com", "employee_estimate": 2},
+  {"name": "Aether Robotics", "sector": "Robotics / Supply Chain", "founded_year": 2020, "headquarters": "Pittsburgh, USA", "website": "https://aetherrobotics.example.com", "employee_estimate": 480},
+  {"name": "Verdant Foods", "sector": "FoodTech / AgriTech", "founded_year": 2019, "headquarters": "Austin, USA", "website": "https://verdantfoods.example.com", "employee_estimate": 90}
+]

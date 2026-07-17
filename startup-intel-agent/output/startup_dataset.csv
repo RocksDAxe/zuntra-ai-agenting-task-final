@@ -1,0 +1,8 @@
+name,sector,headquarters,founded_year,employee_estimate,predicted_stage,stage_confidence,total_funding_musd,latest_funding_stage,momentum_score,risk_score,recommendation,signal_count
+NimbusAI,Enterprise AI,"San Francisco, USA",2024,60,Early Growth (Series A/B),0.8,18.0,series a,47,0,Watch — Emerging Momentum,3
+GreenGrid Energy,Climate Tech / Energy,"Denver, USA",2022,140,Early Growth (Series A/B),0.8,42.0,series b,47,0,Watch — Emerging Momentum,4
+Solstice Health,HealthTech,"Boston, USA",2025,35,Seed Stage,0.75,6.0,seed,37,0,Watch — Emerging Momentum,4
+PayFlux,Fintech Infrastructure,"New York, USA",2021,310,Late Stage / Scaling,0.8,70.0,series c,12,35,Insufficient Signal,3
+Loomwork,Future of Work / SaaS,Remote,2026,2,Seed Stage,0.75,7.0,seed,28,0,Insufficient Signal,3
+Aether Robotics,Robotics / Supply Chain,"Pittsburgh, USA",2020,480,Late Stage / Scaling,0.8,110.0,series d,23,0,Insufficient Signal,3
+Verdant Foods,FoodTech / AgriTech,"Austin, USA",2019,90,Acquired / Exited,0.95,80.0,unknown,12,85,Exited — No Longer Investable,5
