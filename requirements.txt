@@ -1,0 +1,18 @@
+# Core pipeline (no hard external deps beyond stdlib for core logic)
+
+# Dashboard
+streamlit>=1.35
+plotly>=5.22
+pandas>=2.2
+
+# Report export (bonus: PDF / Excel)
+fpdf2>=2.7
+openpyxl>=3.1
+
+# Optional: live data collection
+feedparser>=6.0.11
+requests>=2.31
+beautifulsoup4>=4.12
+
+# Optional: LLM-enhanced insight narratives (only used if ANTHROPIC_API_KEY is set)
+anthropic>=0.34
