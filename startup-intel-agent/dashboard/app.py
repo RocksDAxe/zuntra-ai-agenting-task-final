@@ -64,8 +64,6 @@ def save_watchlist(names):
 st.sidebar.title("🚀 Startup Intel Agent")
 st.sidebar.caption("Multi-agent pipeline: Collect → Extract → Dedupe → Predict Stage → Insight")
 
-if st.sidebar.button("🔄 Run pipeline now (real-time refresh)", use_container_width=True):
-    run_pipeline()
 
 data = load_dataset()
 if not data:
